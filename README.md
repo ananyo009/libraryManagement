@@ -41,3 +41,5 @@ Student: `{"studentName":"Riya Sen","email":"riya@college.edu","department":"CSE
 
 ## Error codes
 404 not found | 409 duplicate ISBN/email | 400 no copies / invalid data / business rule violation
+
+development
